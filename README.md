@@ -17,9 +17,6 @@ pip install -r requirements.txt
 ```
 ## To-Do List
 
-- [x] Setup database (database.py)
-- [x] Create Pydantic models (models.py)
-
 ### Core Features
 - Create tasks
 - View all tasks
